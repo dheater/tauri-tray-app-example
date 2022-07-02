@@ -56,15 +56,6 @@
     "systemTray": {
       "iconPath": "icons/icon.png",
       "iconAsTemplate": true
-    },
-    "windows": [
-      {
-        "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "Tauri App",
-        "width": 800
-      }
-    ]
+    }
   }
 }
