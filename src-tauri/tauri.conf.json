@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "ttray-app",
+    "productName": "Tauri Tray App Example",
     "version": "0.1.0"
   },
   "tauri": {
@@ -24,7 +24,7 @@
       "externalBin": [],
       "icon": [
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.heatertech.dev",
       "longDescription": "",
       "macOS": {
         "entitlements": null,

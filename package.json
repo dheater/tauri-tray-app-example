@@ -1,7 +1,7 @@
 {
   "name": "ttray-app",
   "scripts": {
-    "tauri": "tauri"
+    "tauri": "node_modules/.bin/tauri"
   },
   "dependencies": {
     "@tauri-apps/api": "^1.0.1"

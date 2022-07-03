@@ -9,7 +9,7 @@ const VERSION: &'static str = env!("CARGO_PKG_VERSION");
 
 fn main() {
     let quit = CustomMenuItem::new("quit".to_string(), "Quit");
-    let version = CustomMenuItem::new("version".to_string(), "Version: ".to_string() +VERSION);
+    let version = CustomMenuItem::new("version".to_string(), "Version: ".to_string() + VERSION);
     let tray_menu = SystemTrayMenu::new()
         .add_item(quit)
         .add_native_item(SystemTrayMenuItem::Separator)
