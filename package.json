@@ -1,5 +1,5 @@
 {
-  "name": "ttray-app",
+  "name": "tauri-tray-app-example",
   "scripts": {
     "tauri": "node_modules/.bin/tauri"
   },
