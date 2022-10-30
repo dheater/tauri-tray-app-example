@@ -3,12 +3,12 @@
   "build": {
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
-    "devPath": "../dist",
-    "distDir": "../dist"
+    "devPath": "../ui",
+    "distDir": "../ui"
   },
   "package": {
     "productName": "Tauri Tray App Example",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "tauri": {
     "allowlist": {
